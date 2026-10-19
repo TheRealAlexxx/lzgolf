@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>lzgolf - a daily byte-golf puzzle</title>
+<meta name="description" content="Encode the string in the fewest characters of lzgolf code. One new puzzle every day.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header>
+    <h1>lzgolf</h1>
+    <p class="tagline">a daily byte-golf puzzle</p>
+    <p id="date-line"></p>
+  </header>
+
+  <section id="puzzle">
+    <p class="label">encode this string<span id="tier"></span></p>
+    <pre id="target"></pre>
+    <p class="label">your program <span id="counter"></span></p>
+    <input id="program" type="text" autocomplete="off" autocapitalize="off" spellcheck="false"
+           placeholder="e.g. 4{ab} or abc~3,2~" autofocus>
+    <pre id="preview"></pre>
+    <div class="row">
+      <button id="submit" type="button">submit</button>
+      <button id="practice" type="button" class="secondary">practice</button>
+      <button id="how" type="button" class="secondary">how to play</button>
+    </div>
+    <p id="verdict"></p>
+    <div id="share-row" class="hidden">
+      <button id="share" type="button" class="secondary">copy share text</button>
+    </div>
+  </section>
+
+  <section id="howto" class="hidden">
+    <h2>how to play</h2>
+    <p>You write a tiny program that must decode to the target string exactly.
+       Shorter is better. Beat par if you can. Par is provably optimal, so beating it is impossible;
+       matching it is a perfect round.</p>
+    <table>
+      <tr><th>token</th><th>meaning</th><th>example</th></tr>
+      <tr><td>plain text</td><td>prints itself (1 char each)</td><td><code>abc</code> &rarr; abc</td></tr>
+      <tr><td><code>N{...}</code></td><td>repeat the block N times</td><td><code>4{ab}</code> &rarr; abababab</td></tr>
+      <tr><td><code>~D,L~</code></td><td>copy L chars from D back</td><td><code>abcd~4,2~</code> &rarr; abcdab</td></tr>
+      <tr><td><code>\x</code></td><td>literal x (for digits, { } ~ \)</td><td><code>\7</code> &rarr; 7</td></tr>
+    </table>
+    <p>Backrefs copy from the decoded output as it grows, so <code>ab~2,4~</code> gives ababab.
+       Inside a <code>{ }</code> block, a backref can only see inside that block.</p>
+    <p id="stats"></p>
+  </section>
+
+  <footer>
+    <p>zero dependencies. par computed by an exact solver.
+    <a href="https://github.com/TheRealAlexxx/lzgolf">source</a></p>
+  </footer>
+</main>
+<script src="lzgolf.js"></script>
+<script src="game.js"></script>
+</body>
+</html>

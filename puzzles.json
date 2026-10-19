@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "puzzles": [
+    {
+      "target": "nananana nananana nananana batman",
+      "par": 15,
+      "tier": "easy",
+      "solution": "3{4{na} }batman"
+    },
+    {
+      "target": "abcabcabcabcabcabc",
+      "par": 6,
+      "tier": "easy",
+      "solution": "6{abc}"
+    },
+    {
+      "target": "hahahahahahahaha",
+      "par": 5,
+      "tier": "easy",
+      "solution": "8{ha}"
+    },
+    {
+      "target": "xyzxyzxyzxyzxyzxyz",
+      "par": 6,
+      "tier": "easy",
+      "solution": "6{xyz}"
+    },
+    {
+      "target": "beep beep beep beep beep beep",
+      "par": 11,
+      "tier": "easy",
+      "solution": "beep ~5,24~"
+    },
+    {
+      "target": "tick tock tick tock tick tock",
+      "par": 17,
+      "tier": "easy",
+      "solution": "tick tock ~10,19~"
+    },
+    {
+      "target": "bla bla bla bla bla bla bla bla",
+      "par": 10,
+      "tier": "easy",
+      "solution": "7{bla }bla"
+    },
+    {
+      "target": "up down up down up down up down",
+      "par": 14,
+      "tier": "easy",
+      "solution": "up down ~8,23~"
+    },
+    {
+      "target": "same same same same same same",
+      "par": 11,
+      "tier": "easy",
+      "solution": "same ~5,24~"
+    },
+    {
+      "target": "wo wo wo wo wo wo wo wo wo",
+      "par": 8,
+      "tier": "easy",
+      "solution": "8{wo }wo"
+    },
+    {
+      "target": "go go go go go go go go",
+      "par": 8,
+      "tier": "easy",
+      "solution": "7{go }go"
+    },
+    {
+      "target": "la la la la la la la la la la",
+      "par": 8,
+      "tier": "easy",
+      "solution": "9{la }la"
+    },
+    {
+      "target": "abba abba abba abba abba abba",
+      "par": 11,
+      "tier": "medium",
+      "solution": "abba ~5,24~"
+    },
+    {
+      "target": "the cat sat on the mat the cat sat on the mat the cat sat",
+      "par": 30,
+      "tier": "medium",
+      "solution": "the cat sat on the mat ~23,34~"
+    },
+    {
+      "target": "peter piper picked a peck of pickled peppers peter piper picked",
+      "par": 52,
+      "tier": "medium",
+      "solution": "peter piper picked a peck of pickled peppers ~45,18~"
+    },
+    {
+      "target": "red lorry yellow lorry red lorry yellow lorry red lorry yellow",
+      "par": 29,
+      "tier": "medium",
+      "solution": "red lorry yellow~13,7~~23,39~"
+    },
+    {
+      "target": "how much wood would a woodchuck chuck how much wood would a woodchuck chuck",
+      "par": 42,
+      "tier": "medium",
+      "solution": "how much wood would a wood2{chuck }~38,37~"
+    },
+    {
+      "target": "buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo",
+      "par": 14,
+      "tier": "medium",
+      "solution": "buffalo ~8,55~"
+    },
+    {
+      "target": "eeny meeny miny moe eeny meeny miny moe",
+      "par": 24,
+      "tier": "medium",
+      "solution": "2{eeny m}iny moe ~20,19~"
+    },
+    {
+      "target": "a man a plan a canal panama a man a plan a canal panama",
+      "par": 35,
+      "tier": "medium",
+      "solution": "a man a plan a canal panama ~28,27~"
+    },
+    {
+      "target": "dogs bark cats meow dogs bark cats meow dogs bark cats meow",
+      "par": 27,
+      "tier": "medium",
+      "solution": "dogs bark cats meow ~20,39~"
+    },
+    {
+      "target": "one two buckle my shoe one two buckle my shoe one two buckle my shoe",
+      "par": 30,
+      "tier": "medium",
+      "solution": "one two buckle my shoe ~23,45~"
+    },
+    {
+      "target": "rain rain go away come again another day rain rain go away",
+      "par": 46,
+      "tier": "medium",
+      "solution": "2{rain }go away come again another day ~41,17~"
+    },
+    {
+      "target": "to be or not to be to be or not to be to be or not to be",
+      "par": 26,
+      "tier": "medium",
+      "solution": "to be or not to be ~19,37~"
+    },
+    {
+      "target": "jack and jill went up the hill jack and jill went up the hill jack and jill",
+      "par": 38,
+      "tier": "medium",
+      "solution": "jack and jill went up the hill ~31,44~"
+    },
+    {
+      "target": "she sells sea shells she sells sea shells she sells sea shells",
+      "par": 28,
+      "tier": "medium",
+      "solution": "she sells sea shells ~21,41~"
+    },
+    {
+      "target": "i scream you scream we all scream for ice cream i scream you scream we all scream",
+      "par": 51,
+      "tier": "medium",
+      "solution": "i scream you~11,8~we all~14,8~for ice cream ~48,33~"
+    },
+    {
+      "target": "mary had a little lamb little lamb little lamb mary had a little lamb",
+      "par": 33,
+      "tier": "hard",
+      "solution": "mary had a3{ little lamb} ~47,22~"
+    },
+    {
+      "target": "twinkle twinkle little star twinkle twinkle little star",
+      "par": 30,
+      "tier": "hard",
+      "solution": "2{twinkle }little star ~28,27~"
+    },
+    {
+      "target": "the quick brown fox jumps over the lazy dog the quick brown fox jumps over the lazy dog",
+      "par": 51,
+      "tier": "hard",
+      "solution": "the quick brown fox jumps over the lazy dog ~44,43~"
+    },
+    {
+      "target": "pack my box with five dozen liquor jugs pack my box with five dozen liquor jugs",
+      "par": 47,
+      "tier": "hard",
+      "solution": "pack my box with five dozen liquor jugs ~40,39~"
+    },
+    {
+      "target": "it was the best of times it was the worst of times it was the best of times it was the worst of times",
+      "par": 49,
+      "tier": "hard",
+      "solution": "it was the best of times ~25,11~wor~26,23~~51,39~"
+    },
+    {
+      "target": "all work and no play makes jack a dull boy all work and no play makes jack a dull boy",
+      "par": 50,
+      "tier": "hard",
+      "solution": "all work and no play makes jack a dull boy ~43,42~"
+    },
+    {
+      "target": "around the rugged rocks the ragged rascals ran around the rugged rocks the ragged rascals ran",
+      "par": 54,
+      "tier": "hard",
+      "solution": "around the rugged rocks the ragged rascals ran ~47,46~"
+    },
+    {
+      "target": "how vexingly quick daft zebras jump how vexingly quick daft zebras jump",
+      "par": 43,
+      "tier": "hard",
+      "solution": "how vexingly quick daft zebras jump ~36,35~"
+    },
+    {
+      "target": "the fifth boxing wizards jump quickly the fifth boxing wizards jump quickly",
+      "par": 45,
+      "tier": "hard",
+      "solution": "the fifth boxing wizards jump quickly ~38,37~"
+    },
+    {
+      "target": "double double toil and trouble fire burn and cauldron bubble double double toil and trouble",
+      "par": 64,
+      "tier": "hard",
+      "solution": "2{double }toil and trouble fire burn and cauldron bubble ~61,30~"
+    },
+    {
+      "target": "if you can dream it you can do it if you can dream it you can do it if you can dream it",
+      "par": 38,
+      "tier": "hard",
+      "solution": "if you can dream it~17,9~do it ~34,53~"
+    },
+    {
+      "target": "watson come here i need you watson come here i need you watson come here",
+      "par": 35,
+      "tier": "hard",
+      "solution": "watson come here i need you ~28,44~"
+    },
+    {
+      "target": "elementary my dear watson elementary my dear watson elementary",
+      "par": 33,
+      "tier": "hard",
+      "solution": "elementary my dear watson ~26,36~"
+    },
+    {
+      "target": "one small step for man one giant leap for mankind one small step for man",
+      "par": 54,
+      "tier": "hard",
+      "solution": "one small step for man one giant lea~23,9~kind ~50,22~"
+    },
+    {
+      "target": "float like a butterfly sting like a bee float like a butterfly sting like a bee",
+      "par": 44,
+      "tier": "hard",
+      "solution": "float like a butterfly sting~23,9~ee ~40,39~"
+    }
+  ]
+}
