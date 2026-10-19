@@ -36,12 +36,12 @@ and returns the minimum over **every** valid program, not a heuristic.
 
 The test suite cross-checks the DP against an independent exhaustive
 enumerator (every composition of the target into tokens) on hundreds of short
-strings, and the shipped `solution` for each of the 42 bank puzzles is verified
+strings, and the shipped `solution` for each of the 74 bank puzzles is verified
 to decode correctly and hit par.
 
 ## The puzzles
 
-`puzzles.json` holds 42 hand-picked puzzles in three tiers. Every one is
+`puzzles.json` holds 74 hand-picked puzzles in three tiers. Every one is
 guaranteed worth playing: the optimal program saves at least 15% over retyping.
 Pars are computed offline by `gen-puzzles.js`.
 

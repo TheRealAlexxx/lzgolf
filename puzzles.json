@@ -74,6 +74,42 @@
       "solution": "9{la }la"
     },
     {
+      "target": "moo moo moo moo moo moo moo moo",
+      "par": 10,
+      "tier": "easy",
+      "solution": "7{moo }moo"
+    },
+    {
+      "target": "do re mi do re mi do re mi",
+      "par": 15,
+      "tier": "easy",
+      "solution": "do re mi ~9,17~"
+    },
+    {
+      "target": "left right left right left right",
+      "par": 18,
+      "tier": "easy",
+      "solution": "left right ~11,21~"
+    },
+    {
+      "target": "ding dong ding dong ding dong",
+      "par": 17,
+      "tier": "easy",
+      "solution": "ding dong ~10,19~"
+    },
+    {
+      "target": "no no no no no no no no no",
+      "par": 8,
+      "tier": "easy",
+      "solution": "8{no }no"
+    },
+    {
+      "target": "hey hey hey hey hey hey hey hey",
+      "par": 10,
+      "tier": "easy",
+      "solution": "7{hey }hey"
+    },
+    {
       "target": "abba abba abba abba abba abba",
       "par": 11,
       "tier": "medium",
@@ -164,6 +200,72 @@
       "solution": "i scream you~11,8~we all~14,8~for ice cream ~48,33~"
     },
     {
+      "target": "happy birthday to you happy birthday to you happy birthday",
+      "par": 29,
+      "tier": "medium",
+      "solution": "happy birthday to you ~22,36~"
+    },
+    {
+      "target": "london bridge is falling down falling down falling down london bridge",
+      "par": 40,
+      "tier": "medium",
+      "solution": "london bridge is3{ falling down} ~56,13~"
+    },
+    {
+      "target": "mirror mirror on the wall who is the fairest mirror mirror on the wall",
+      "par": 48,
+      "tier": "medium",
+      "solution": "2{mirror }on the wall who is the fairest ~45,25~"
+    },
+    {
+      "target": "an apple a day keeps the doctor away an apple a day keeps the doctor",
+      "par": 44,
+      "tier": "medium",
+      "solution": "an apple a day keeps the doctor away ~37,31~"
+    },
+    {
+      "target": "practice makes perfect practice makes perfect practice makes",
+      "par": 30,
+      "tier": "medium",
+      "solution": "practice makes perfect ~23,37~"
+    },
+    {
+      "target": "what goes around comes around what goes around comes around",
+      "par": 34,
+      "tier": "medium",
+      "solution": "what goes around com~13,9~ ~30,29~"
+    },
+    {
+      "target": "easy come easy go easy come easy go easy come",
+      "par": 25,
+      "tier": "medium",
+      "solution": "easy come easy go ~18,27~"
+    },
+    {
+      "target": "first come first served first come first served first come",
+      "par": 31,
+      "tier": "medium",
+      "solution": "first come first served ~24,34~"
+    },
+    {
+      "target": "no pain no gain no pain no gain no pain no gain",
+      "par": 23,
+      "tier": "medium",
+      "solution": "no pain no gain ~16,31~"
+    },
+    {
+      "target": "been there done that been there done that been there",
+      "par": 28,
+      "tier": "medium",
+      "solution": "been there done that ~21,31~"
+    },
+    {
+      "target": "the end of the beginning of the end of the beginning",
+      "par": 35,
+      "tier": "medium",
+      "solution": "the end of the beginning of ~28,24~"
+    },
+    {
       "target": "mary had a little lamb little lamb little lamb mary had a little lamb",
       "par": 33,
       "tier": "hard",
@@ -252,6 +354,96 @@
       "par": 44,
       "tier": "hard",
       "solution": "float like a butterfly sting~23,9~ee ~40,39~"
+    },
+    {
+      "target": "a long time ago in a galaxy far far away a long time ago in a galaxy far far away",
+      "par": 47,
+      "tier": "hard",
+      "solution": "a long time ago in a galaxy2{ far} away ~41,40~"
+    },
+    {
+      "target": "may the force be with you may the force be with you may the force be with you",
+      "par": 33,
+      "tier": "hard",
+      "solution": "may the force be with you ~26,51~"
+    },
+    {
+      "target": "the cake is a lie the cake is a lie the cake is a lie the cake is a lie",
+      "par": 25,
+      "tier": "hard",
+      "solution": "the cake is a lie ~18,53~"
+    },
+    {
+      "target": "winter is coming winter is coming winter is coming winter is coming",
+      "par": 24,
+      "tier": "hard",
+      "solution": "winter is coming ~17,50~"
+    },
+    {
+      "target": "to infinity and beyond to infinity and beyond to infinity and beyond",
+      "par": 30,
+      "tier": "hard",
+      "solution": "to infinity and beyond ~23,45~"
+    },
+    {
+      "target": "i think therefore i am i think therefore i am i think therefore i am",
+      "par": 30,
+      "tier": "hard",
+      "solution": "i think therefore i am ~23,45~"
+    },
+    {
+      "target": "veni vidi vici veni vidi vici veni vidi vici veni vidi vici",
+      "par": 22,
+      "tier": "hard",
+      "solution": "veni vidi vici ~15,44~"
+    },
+    {
+      "target": "carpe diem seize the day carpe diem seize the day carpe diem",
+      "par": 32,
+      "tier": "hard",
+      "solution": "carpe diem seize the day ~25,35~"
+    },
+    {
+      "target": "the night is dark and full of terrors the night is dark and full of terrors",
+      "par": 45,
+      "tier": "hard",
+      "solution": "the night is dark and full of terrors ~38,37~"
+    },
+    {
+      "target": "knowledge is power knowledge is power knowledge is power knowledge",
+      "par": 26,
+      "tier": "hard",
+      "solution": "knowledge is power ~19,47~"
+    },
+    {
+      "target": "actions speak louder than words actions speak louder than words actions",
+      "par": 39,
+      "tier": "hard",
+      "solution": "actions speak louder than words ~32,39~"
+    },
+    {
+      "target": "better late than never better late than never better late than never",
+      "par": 30,
+      "tier": "hard",
+      "solution": "better late than never ~23,45~"
+    },
+    {
+      "target": "fortune favors the bold fortune favors the bold fortune favors the bold",
+      "par": 31,
+      "tier": "hard",
+      "solution": "fortune favors the bold ~24,47~"
+    },
+    {
+      "target": "history repeats itself history repeats itself history repeats itself",
+      "par": 30,
+      "tier": "hard",
+      "solution": "history repeats itself ~23,45~"
+    },
+    {
+      "target": "be yourself everyone else is already taken be yourself everyone else is already",
+      "par": 50,
+      "tier": "hard",
+      "solution": "be yourself everyone else is already taken ~43,36~"
     }
   ]
 }
