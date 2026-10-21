@@ -5,6 +5,7 @@ lzgolf code. Par is provably optimal: matching it is a perfect round.
 
 **Play:** https://therealalexxx.github.io/lzgolf/
 
+![lzgolf](screenshot.png)
 ## The lzgolf language
 
 A program decodes left to right. Its score is simply its length in characters.
